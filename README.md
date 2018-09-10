@@ -14,6 +14,7 @@
 * 设置杠杆
 * 获取mt4时区
 
+![](https://github.com/qq66921494/mt4-manager-api/blob/master/mt4server.exe.png)
 ---
 
 # Mt4Plugin.dll
