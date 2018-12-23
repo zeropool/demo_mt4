@@ -25,3 +25,5 @@
 
 # Mt4Client
 Mt4Server.exe和Mt4Plugin.dll的java客户端实现, 请参考, PHP, C#请自行使用thrift描述文件生成接口客户端代码 ..
+
+![Image text](https://github.com/qq66921494/mt4/blob/master/mt4server.exe.png)
