@@ -1,3 +1,4 @@
+demo运行依赖https://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe
 
 # Mt4Server.exe
 基于mt4官方提供的ManagerAPI.dll进行二次封装并对外提供thrift接口(支持多语言客户端访问), 为CRM系统提供操作接口, 通过长时间实践总结进行了诸多优化, 比如心跳, 断开重连, 日志记载, 配置文件, 查询类接口进行数据缓存以提高mt4并发查询能力等等 ...
