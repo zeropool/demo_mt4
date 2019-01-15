@@ -1,0 +1,89 @@
+﻿Build started 2018/1/30 9:53:07.
+     1>Project "D:\ManagerAPI\Examples\ManagerAPISample\ManagerAPISample.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\ManagerAPISample.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_32BIT_TIME_T /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp".\Debug/ManagerAPISample.pch" /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_32BIT_TIME_T /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp".\Debug/ManagerAPISample.pch" /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ManagerAPISample.cpp ManagerSheet.cpp PageDaily.cpp PageDealer.cpp PageExposure.cpp PageJournal.cpp PageLogs.cpp PageMW.cpp PageMailbox.cpp PageMain.cpp PageMargin.cpp PageNews.cpp PageOnline.cpp PageOrders.cpp PagePlugins.cpp PageReports.cpp PageRequests.cpp PageSymbols.cpp PageUsers.cpp dialogs\MailSendDlg.cpp dialogs\newssenddlg.cpp dialogs\requestdlg.cpp dialogs\symbolchangedlg.cpp dialogs\userbalancedlg.cpp dialogs\usergroupdlg.cpp dialogs\userhistorydlg.cpp dialogs\usernewdlg.cpp dialogs\userupdatedlg.cpp pagesummary.cpp
+         Skipping... (no relevant changes detected)
+         pagesummary.cpp
+         userupdatedlg.cpp
+         usernewdlg.cpp
+         userhistorydlg.cpp
+         usergroupdlg.cpp
+         userbalancedlg.cpp
+         symbolchangedlg.cpp
+         requestdlg.cpp
+         newssenddlg.cpp
+         MailSendDlg.cpp
+         PageUsers.cpp
+         PageSymbols.cpp
+         PageRequests.cpp
+         PageReports.cpp
+         PagePlugins.cpp
+         PageOrders.cpp
+         PageOnline.cpp
+         PageNews.cpp
+         PageMargin.cpp
+         PageMain.cpp
+         PageMailbox.cpp
+         PageMW.cpp
+         PageLogs.cpp
+         PageJournal.cpp
+         PageExposure.cpp
+         PageDealer.cpp
+         PageDaily.cpp
+         ManagerSheet.cpp
+         ManagerAPISample.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/ManagerAPISample.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\ManagerAPISample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/ManagerAPISample.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\ManagerAPISample.lib" /MACHINE:X86 .\Debug\ManagerAPISample.res
+         .\Debug\ManagerAPISample.exe.embed.manifest.res
+         .\Debug/MailSendDlg.obj
+         .\Debug/ManagerAPISample.obj
+         .\Debug/ManagerSheet.obj
+         .\Debug/newssenddlg.obj
+         .\Debug/PageDaily.obj
+         .\Debug/PageDealer.obj
+         .\Debug/PageExposure.obj
+         .\Debug/PageJournal.obj
+         .\Debug/PageLogs.obj
+         .\Debug/PageMailbox.obj
+         .\Debug/PageMain.obj
+         .\Debug/PageMargin.obj
+         .\Debug/PageMW.obj
+         .\Debug/PageNews.obj
+         .\Debug/PageOnline.obj
+         .\Debug/PageOrders.obj
+         .\Debug/PagePlugins.obj
+         .\Debug/PageReports.obj
+         .\Debug/PageRequests.obj
+         .\Debug/pagesummary.obj
+         .\Debug/PageSymbols.obj
+         .\Debug/PageUsers.obj
+         .\Debug/requestdlg.obj
+         .\Debug/StdAfx.obj
+         .\Debug/symbolchangedlg.obj
+         .\Debug/userbalancedlg.obj
+         .\Debug/usergroupdlg.obj
+         .\Debug/userhistorydlg.obj
+         .\Debug/usernewdlg.obj
+         .\Debug/userupdatedlg.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\ManagerAPISample.exe.embed.manifest" /manifest .\Debug\ManagerAPISample.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         ManagerAPISample.vcxproj -> D:\ManagerAPI\Examples\ManagerAPISample\.\Debug\ManagerAPISample.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\ManagerAPISample.unsuccessfulbuild".
+         Touching ".\Debug\ManagerAPISample.lastbuildstate".
+     1>Done Building Project "D:\ManagerAPI\Examples\ManagerAPISample\ManagerAPISample.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.61
